@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PatrycjaMicle
+- 👋 Hi, I’m @PatrycjaMicle - student of Software Engineering
 - 👀 I’m interested in exchange o interesting exercises to practice and improve my skills.
 - 🌱 I’m currently learning c,c++,Javascript and C#.
 - 📫 How to reach me: patstar2804@gmail.com
