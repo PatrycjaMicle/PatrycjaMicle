@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PatrycjaMicle - student of programming of Business Applications
+- 👋 Hi, I’m @PatrycjaMicle - student of Programming of Business Applications
 - 👀 I’m interested in exchange o interesting exercises to practice and improve my skills.
 - 🌱 I’m currently learning c++,Javascript.
 - 🌱 Next -> C# , MySQL, .NET
